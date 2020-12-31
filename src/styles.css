@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: #e7e7e7;
+}
+
+.NavBar {
+  background: #333;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  align-content: center;
+  align-items: center;
+  letter-spacing: 0.2em;
+}
